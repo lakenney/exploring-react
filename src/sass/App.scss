@@ -1,0 +1,39 @@
+/**
+ * ----------------------------------------------------------------------------------------
+ * style.scss ... 6-13
+ *
+ *
+ * Simple CSS framework inspired by Jonathan Path's framework 
+ *
+ * https://github.com/jonathanpath/SASS-SMACSS
+ * ----------------------------------------------------------------------------------------
+ */
+
+
+/* Utilities ... variables need to be placed above source files */
+
+/* Base */
+
+/* Fonts */
+
+ /* Modules */
+@import "modules/logo";
+@import "modules/header";
+@import "modules/links";
+
+/* Layout */
+
+/* Theme */
+
+
+
+/* Other */
+
+.App {
+  text-align: center;
+}
+
+
+
+
+
